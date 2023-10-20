@@ -42,6 +42,12 @@
                         <p>Tugas</p>
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a href="<?= base_url('modul') ?>" class="nav-link">
+                        <i class="fas fa-book-reader nav-icon"></i>
+                        <p>Modul/Slide</p>
+                    </a>
+                </li>
             </ul>
         </nav>
         <!-- /.sidebar-menu -->
